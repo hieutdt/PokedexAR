@@ -1,0 +1,117 @@
+{
+    "pokemons": [
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Bulbasaur",
+            "thumbImageUrl": "https://i.pinimg.com/originals/d6/61/96/d66196beb60d306a966ea39ed11c2b3d.png",
+            "type": "grass",
+            "description": "Bulbasaur is a small, quadrupedal Pokémon that has blue-green skin with darker patches. It has red eyes with white pupils, pointed, ear-like structures on top of its head, and a short, blunt snout with a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On Bulbasaur's back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
+            "3DModelFileName": "bulbasaur.dae",
+            "3DModelName": "bulbasaurModel"
+        },
+        {
+            "name": "Charizard",
+            "thumbImageUrl": "https://banner2.cleanpng.com/20190420/chc/kisspng-charizard-dragon-art-illustration-fire-winter-breath-transparent-amp-png-clipart-free-d-5cbabb5fbc7227.4639067915557415357719.jpg",
+            "type": "fire",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget tortor quis lacus posuere pretium in a metus. Nulla vestibulum facilisis neque, eu dictum massa lacinia vel. Etiam et augue eget eros sodales tristique ut auctor urna. Donec ultricies scelerisque orci vulputate condimentum. Vestibulum mattis consequat nulla ac cursus. Aliquam porttitor porta nibh. Suspendisse potenti. Duis iaculis vestibulum neque, sit amet gravida lectus. Nullam in purus nec nibh feugiat posuere eu vitae dolor. Ut vitae dui at elit vehicula fringilla. Nulla lorem mauris, dictum id condimentum eget, ultrices vel arcu.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        {
+            "name": "Pikachu",
+            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "type": "electric",
+            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+            "3DModelFileName": "pikachu.dae",
+            "3DModelName": "pikachuModel"
+        },
+        
+    ]
+}
