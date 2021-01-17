@@ -23,6 +23,8 @@ class HomeViewController: UIViewController {
         collectionView.delegate = self
         collectionView.dataSource = self
         collectionView.backgroundColor = .clear
+        collectionView.showsVerticalScrollIndicator = false
+        collectionView.showsHorizontalScrollIndicator = false
         collectionView.register(
             PokemonCollectionCell.self,
             forCellWithReuseIdentifier: PokemonCollectionCell.reuseId

@@ -19,6 +19,9 @@ public enum PokemonType: String {
     case ghost = "ghost"
     case fairy = "fairy"
     case dragon = "dragon"
+    case poison = "poison"
+    case fly = "fly"
+    case bug = "bug"
 }
 
 public struct Pokemon: Identifiable, Hashable {
@@ -47,13 +50,22 @@ public struct Pokemon: Identifiable, Hashable {
         }
     }
     
+    public static func textColorByType(_ type: PokemonType) -> UIColor {
+        switch type {
+        case .fly, .normal:
+            return .black
+        default:
+            return .white
+        }
+    }
+    
     public static func colorByType(_ type: PokemonType) -> UIColor {
         switch type {
         case .fire:
             return .systemRed
             
         case .normal:
-            return .systemGray
+            return .init(red: 242/255, green: 243/255, blue: 244/255, alpha: 1)
             
         case .water:
             return .systemBlue
@@ -66,6 +78,15 @@ public struct Pokemon: Identifiable, Hashable {
             
         case .grass:
             return .systemGreen
+            
+        case .poison:
+            return .systemPurple
+            
+        case .bug:
+            return .init(red: 106/255, green: 200/255, blue: 163/255, alpha: 1)
+            
+        case .fly:
+            return .init(red: 197/255, green: 254/255, blue: 250/255, alpha: 1)
         
         default:
             return .white

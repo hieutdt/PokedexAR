@@ -19,6 +19,7 @@ class PokemonCollectionCell: UICollectionViewCell {
         didSet {
             if let pokemon = self.pokemon {
                 self.nameLabel.text = pokemon.name
+                self.nameLabel.textColor = Pokemon.textColorByType(pokemon.type)
                 if let url = URL(string: pokemon.thumbUrl) {
                     self.thumbImgView.af.setImage(withURL: url)
                 }

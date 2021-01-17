@@ -1,14 +1,6 @@
 {
     "pokemons": [
         {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
             "name": "Bulbasaur",
             "thumbImageUrl": "https://i.pinimg.com/originals/d6/61/96/d66196beb60d306a966ea39ed11c2b3d.png",
             "type": "grass",
@@ -17,101 +9,221 @@
             "3DModelName": "bulbasaurModel"
         },
         {
-            "name": "Charizard",
-            "thumbImageUrl": "https://banner2.cleanpng.com/20190420/chc/kisspng-charizard-dragon-art-illustration-fire-winter-breath-transparent-amp-png-clipart-free-d-5cbabb5fbc7227.4639067915557415357719.jpg",
+            "name": "Ivysaur",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+            "type": "grass",
+            "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Venusaur",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+            "type": "grass",
+            "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Charmander",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
             "type": "fire",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget tortor quis lacus posuere pretium in a metus. Nulla vestibulum facilisis neque, eu dictum massa lacinia vel. Etiam et augue eget eros sodales tristique ut auctor urna. Donec ultricies scelerisque orci vulputate condimentum. Vestibulum mattis consequat nulla ac cursus. Aliquam porttitor porta nibh. Suspendisse potenti. Duis iaculis vestibulum neque, sit amet gravida lectus. Nullam in purus nec nibh feugiat posuere eu vitae dolor. Ut vitae dui at elit vehicula fringilla. Nulla lorem mauris, dictum id condimentum eget, ultrices vel arcu.",
+            "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Charmeleon",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+            "type": "fire",
+            "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Charizard",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+            "type": "fire",
+            "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Squirtle",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+            "type": "water",
+            "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Wartortle",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+            "type": "water",
+            "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Wartortle",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+            "type": "water",
+            "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Blastoise",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+            "type": "water",
+            "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Blastoise",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+            "type": "water",
+            "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Caterpie",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+            "type": "bug",
+            "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Metapod",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+            "type": "bug",
+            "description": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Butterfree",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+            "type": "bug",
+            "description": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Weedle",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+            "type": "bug",
+            "description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Kakuna",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+            "type": "bug",
+            "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Beedrill",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+            "type": "bug",
+            "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Pidgey",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+            "type": "normal",
+            "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Pidgeotto",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+            "type": "normal",
+            "description": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Pidgeot",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+            "type": "normal",
+            "description": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Rattata",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+            "type": "normal",
+            "description": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Raticate",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+            "type": "normal",
+            "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Spearow",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+            "type": "fly",
+            "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Fearow",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+            "type": "fly",
+            "description": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Ekans",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+            "type": "poison",
+            "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+            "3DModelFileName": "",
+            "3DModelName": ""
+        },
+        {
+            "name": "Arbok",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+            "type": "poison",
+            "description": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
             "3DModelFileName": "",
             "3DModelName": ""
         },
         {
             "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
             "type": "electric",
             "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
             "3DModelFileName": "pikachu.dae",
             "3DModelName": "pikachuModel"
         },
         {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
+            "name": "Raichu",
+            "thumbImageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
             "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
+            "description": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+            "3DModelFileName": "",
+            "3DModelName": ""
         },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        {
-            "name": "Pikachu",
-            "thumbImageUrl": "https://lh3.googleusercontent.com/proxy/Jz_En8cSyIiU0Vb15fiVW6IxkvHE_rpX41G12o678ZUoD78jsncRTsHNTmfL1LdMtv7mjfqa8dnx9DoE9qCexITt3tVxo4rEo1D_S0Edpr1WZ2xpHEIvDQJM",
-            "type": "electric",
-            "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
-            "3DModelFileName": "pikachu.dae",
-            "3DModelName": "pikachuModel"
-        },
-        
     ]
 }
+
